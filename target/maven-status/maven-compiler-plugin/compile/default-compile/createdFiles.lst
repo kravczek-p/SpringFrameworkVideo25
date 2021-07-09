@@ -1,0 +1,5 @@
+my\kravczek\d0307\models\Person.class
+my\kravczek\d0307\config\MySpringMvcDispatcherSerlvetIntitializer.class
+my\kravczek\d0307\config\SpringConfig.class
+my\kravczek\d0307\conrollers\PeopleControllers.class
+my\kravczek\d0307\dao\PersonDAO.class
